@@ -13,7 +13,3 @@ xhr.setRequestHeader("Authorization", "Bearer ca3f7b6843ae84b71da64b1d041c867f12
 xhr.setRequestHeader("Cookie", "brid_cms=5kcghr5n0oisrsuofcmghln40f");
 
 xhr.send();
-
-function VideoFile() {
-    var video = <script type="text/javascript" src="//services.brid.tv/player/build/brid.min.js"></script> <div id="Brid_11141755" class="brid" style="width:640;height:360;" > </div> <script type="text/javascript"> $bp("Brid_11141755", {"id": "25265","width":"640","height":"360","video":"705458"}); </script>
-}
